@@ -10,7 +10,7 @@ const Navbar = () => {
       <div className="flex flex-shrink-0 items-center">
         <img src={logo} alt="logo" />
       </div>
-      <div className="m-8 flex items-center justify-center gap-8 text-4xl">
+      <div className="m-8 flex items-center justify-center gap-8 text-3xl">
         <FaGithub />
         <FaLinkedin />
         <MdOutlineMailOutline />
